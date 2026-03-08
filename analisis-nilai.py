@@ -1,4 +1,3 @@
-# PYTHON DATA ANALYSIS
 data_nilai = [
     {'nama': 'Andi', 'mata_pelajaran': 'Matematika', 'nilai': 85},
     {'nama': 'Budi', 'mata_pelajaran': 'Matematika', 'nilai': 92},
